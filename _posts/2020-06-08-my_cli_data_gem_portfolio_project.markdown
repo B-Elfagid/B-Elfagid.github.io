@@ -8,7 +8,7 @@ permalink:  my_cli_data_gem_portfolio_project
                                                   
 
 																														 
-                                        ********  "One way or another, you will get there, keep going!"  ********
+                ********  "One way or another, you will get there, keep going!"  ********
 
 With my inspirational motto,  I have finally done my first final project on Ruby Object-Oriented Programming for Flatiron School, I developed a simple CLI gem about Beer that prompt the user for input in order to list out Beer types and its details.
 
