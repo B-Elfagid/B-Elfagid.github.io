@@ -5,7 +5,7 @@ date:       2020-06-08 00:48:52 -0400
 permalink:  my_cli_data_gem_portfolio_project
 ---
 
-                                                   (https://images.app.goo.gl/qHv1dZHfaB2ZAA3x9)
+                                                   [https://images.app.goo.gl/qHv1dZHfaB2ZAA3x9]
 
 
 																														 
